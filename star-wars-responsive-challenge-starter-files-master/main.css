@@ -1,0 +1,55 @@
+* {
+	font-family: Roboto, sans-serif;
+}
+
+header {
+	background-color: #eebb44;
+	margin-bottom: 40px;
+}
+
+h1 {
+	font-size: 2em;
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+.pagetop {
+	max-width: 1000px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+  	margin: 0 auto;
+}
+
+.subtitle {
+	padding-bottom: 15px;
+	margin-top: 0px;
+}
+
+div > img {
+	display: block;
+
+	width: 100%;
+	height: 100%;
+}
+
+.box {
+	border: 1px solid #e5e5e5;
+	display: inline-block;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+h3, .description {
+	margin: 0px;
+}
+
+h3 {
+	padding-bottom: 10px; 
+}
+
+.content {
+	margin: 20px;
+}
+
